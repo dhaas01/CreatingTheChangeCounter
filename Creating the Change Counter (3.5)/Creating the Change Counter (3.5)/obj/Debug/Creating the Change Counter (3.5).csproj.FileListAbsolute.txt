@@ -1,0 +1,10 @@
+E:\Tutorials\Chapter 3\Creating the Change Counter (3.5)\Creating the Change Counter (3.5)\bin\Debug\Creating the Change Counter (3.5).exe.config
+E:\Tutorials\Chapter 3\Creating the Change Counter (3.5)\Creating the Change Counter (3.5)\bin\Debug\Creating the Change Counter (3.5).exe
+E:\Tutorials\Chapter 3\Creating the Change Counter (3.5)\Creating the Change Counter (3.5)\bin\Debug\Creating the Change Counter (3.5).pdb
+E:\Tutorials\Chapter 3\Creating the Change Counter (3.5)\Creating the Change Counter (3.5)\obj\Debug\Creating the Change Counter (3.5).csprojAssemblyReference.cache
+E:\Tutorials\Chapter 3\Creating the Change Counter (3.5)\Creating the Change Counter (3.5)\obj\Debug\Creating_the_Change_Counter__3._5_.Form1.resources
+E:\Tutorials\Chapter 3\Creating the Change Counter (3.5)\Creating the Change Counter (3.5)\obj\Debug\Creating_the_Change_Counter__3._5_.Properties.Resources.resources
+E:\Tutorials\Chapter 3\Creating the Change Counter (3.5)\Creating the Change Counter (3.5)\obj\Debug\Creating the Change Counter (3.5).csproj.GenerateResource.cache
+E:\Tutorials\Chapter 3\Creating the Change Counter (3.5)\Creating the Change Counter (3.5)\obj\Debug\Creating the Change Counter (3.5).csproj.CoreCompileInputs.cache
+E:\Tutorials\Chapter 3\Creating the Change Counter (3.5)\Creating the Change Counter (3.5)\obj\Debug\Creating the Change Counter (3.5).exe
+E:\Tutorials\Chapter 3\Creating the Change Counter (3.5)\Creating the Change Counter (3.5)\obj\Debug\Creating the Change Counter (3.5).pdb
